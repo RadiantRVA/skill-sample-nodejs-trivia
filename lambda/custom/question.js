@@ -2,510 +2,266 @@
 
 module.exports = {
     /**
-     * When editing your questions pay attention to your punctuation. Make sure you use question marks.
+     * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
      * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
      */
     QUESTIONS_EN_GB: [
         {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+            'He called people he found in the lands he explored "Indians" because he thought he was in the Indies.': [
+                'Christopher Columbus',
+                'John Smith',
+                'John Rolfe',
+                'Christopher Newport',
             ],
         },
         {
-            'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-                'Japan',
-                'United States',
-                'Finland',
-                'Germany',
-                'Canada',
-                'Norway',
-                'France',
+            'Who were the first people to live in Virginia?': [
+                'America Indians',
+                'Settlers at Jamestown',
+                'English',
+                'Spanish',
+				'Portugese',
             ],
         },
         {
-            'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pepper Minstix',
+            'What covers most of Virginia\'s land?': [
+                'Forests',
+                'Dry desert',
+                'Glaciers',
+                'Tundra',
             ],
         },
         {
-            'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-                'Girls',
-                'Boys',
-                'Girls and boys',
-                'No way to tell',
+            'Which group lived in southwest Virginia and primarily spoke the Iroquoian language?': [
+                'Cherokee',
+                'Powhatan',
+                'Monacan',
+                'Mattaponi',
+				'Pamunkey',
             ],
         },
         {
-            'What do Reindeer eat?': [
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
+            'Which of the following was not a Virginia American Indian language group?': [
+                'Apache',
+                'Algonquian',
+                'Iroquoian',
+                'Siouan',
             ],
         },
         {
-            'What of the following is not true?': [
-                'Caribou live on all continents',
-                'Both reindeer and Caribou are the same species',
-                'Caribou are bigger than reindeer',
-                'Reindeer live in Scandinavia and Russia',
+            'Archaeologists study material evidence left by people from': [
+                'the past',
+                'the future',
+                'the present',
+                'today',
             ],
         },
         {
-            'In what year did Rudolph make his television debut?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
+            'What was the name of a large Indian town used by Indian leaders several hundred years before the English settlers came?': [
+                'Werowcomoco',
+                'Jamestown',
+                'Yorktown',
+                'Richmond',
             ],
         },
         {
-            'Who was the voice of Rudolph in the 1964 classic?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
+            'In which region is the Pamunkey tribe located?': [
+                'Coastal Plain Tidewater',
+                'Valley and Ridge',
+                'Piedmont',
+                'Appalachian Plateau',
             ],
         },
         {
-            'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
+            'These are the things that tell the history about the people who live in Virginia such as arrowheads, pottery, and tools': [
+                'artifacts',
+                'climate',
+                'archaeologists',
+                'settlement',
             ],
         },
         {
-            'Santa\'s reindeer named Donner was originally named what?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
+            'Virginia\'s Indians are referred to as ': [
+                'Eastern Woodland Indians',
+                'Appalachian Indians',
+                'Desert Indians',
+                'Werowocomoco Indians',
             ],
         },
         {
-            'Who invented the story of Rudolph?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J K  Rowling',
+            'Where was the first permanent English settlement in North America?': [
+                'Jamestown',
+                'Werowocomoco',
+                'Richmond',
+                'Yorktown',
             ],
         },
         {
-            'In what location will you not find reindeer?': [
-                'North Pole',
-                'Lapland',
-                'Korvatunturi mountain',
-                'Finland',
+            'Which of the following is not true?': [
+                'Native people ate the same food during every season',
+                'Native people used natural resources to build their homes',
+                'Native people grew crops such as beans, corn, and squash to eat in the summer',
+                'Native people used animal skins for clothing',
+				'Native people hunted birds and ate stored food during the winter',
+				'Native people hunted, fished, and picked berries for food during the spring',
+				'Native people harvested crops and hunted for food to preserve for winter during the fall',
             ],
         },
         {
-            'What Makes Santa\'s Reindeer Fly?': [
-                'Magical Reindeer Dust',
-                'Fusion',
-                'Amanita muscaria',
-                'Elves',
+            'These are people who study artifacts left from people of the past': [
+                'archaeologists',
+                'explorers',
+                'American Indians',
+                'climates',
             ],
         },
         {
-            'Including Rudolph, how many reindeer hooves are there?': [
-                '36',
-                '24',
-                '16',
-                '8',
+            'Virginias Indians changed their food, clothing, and shelter with the?': [
+                'seasons',
+                'tide',
+                'time of day',
+                'holidays',
             ],
         },
         {
-            'Santa only has one female reindeer, Which one is it?': [
-                'Vixen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
-            ],
-        },
-        {
-            'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
-            ],
-        },
-        {
-            'What was Rudolph\'s father\'s name?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
-            ],
-        },
-        {
-            'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
-            ],
-        },
-        {
-            'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-                'Black mud',
-                'Bag',
-                'Pillow case',
-                'Sock',
-            ],
-        },
-        {
-            'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-                'Dentist',
-                'Reindeer',
-                'Toy maker',
-                'Candlestick maker',
-            ],
-        },
-        {
-            'In the 1964 movie,what was the Bumble\'s one weakness?': [
-                'Could not swim',
-                'Always hungry',
-                'Candy canes',
-                'Cross eyed',
-            ],
-        },
-        {
-            'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-                'Peppermint',
-                'Gold',
-                'India',
-                'Polar Bears',
-            ],
-        },
-        {
-            'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-                'Square wheels',
-                'No Engine',
-                'Paint does not match',
-                'It does not toot',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the Jack in the Box?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
-            ],
-        },
-        {
-            'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-                'Storm',
-                'No snow',
-                'No toys',
-                'The Reindeer were sick',
-            ],
-        },
-        {
-            'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-                'Oink',
-                'Growl',
-                'Bark',
-                'Meow',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the prospector?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
-            ],
-        },
-        {
-            'How far do reindeer travel when they migrate?': [
-                '3000 miles',
-                '700 miles',
-                '500 miles',
-                '0 miles',
-            ],
-        },
-        {
-            'How fast can a reindeer run?': [
-                '48 miles per hour',
-                '17 miles per hour',
-                '19 miles per hour',
-                '14 miles per hour',
-                '52 miles per hour',
-                '41 miles per hour',
+            'What were the three major Indian languages spoken in Virginia?': [
+                'Algonquian, Siouan, and Iroquoian',
+                'Algonquian, Siouan, and Cherokee',
+                'English, Siouan, and Iroquoian',
+                'Algonquian, Monacan, and Cherokee',
             ],
         },
     ],
     QUESTIONS_EN_US: [
         {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+            'He called people he found in the lands he explored "Indians" because he thought he was in the Indies.': [
+                'Christopher Columbus',
+                'John Smith',
+                'John Rolfe',
+                'Christopher Newport',
             ],
         },
         {
-            'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-                'Japan',
-                'United States',
-                'Finland',
-                'Germany',
-                'Canada',
-                'Norway',
-                'France',
+            'Who were the first people to live in Virginia?': [
+                'America Indians',
+                'Settlers at Jamestown',
+                'English',
+                'Spanish',
+				'Portugese',
             ],
         },
         {
-            'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pepper Minstix',
+            'What covers most of Virginia\'s land?': [
+                'Forests',
+                'Dry desert',
+                'Glaciers',
+                'Tundra',
             ],
         },
         {
-            'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-                'Girls',
-                'Boys',
-                'Girls and boys',
-                'No way to tell',
+            'Which group lived in southwest Virginia and primarily spoke the Iroquoian language?': [
+                'Cherokee',
+                'Powhatan',
+                'Monacan',
+                'Mattaponi',
+				'Pamunkey',
             ],
         },
         {
-            'What do Reindeer eat?': [
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
+            'Which of the following was not a Virginia American Indian language group?': [
+                'Apache',
+                'Algonquian',
+                'Iroquoian',
+                'Siouan',
             ],
         },
         {
-            'What of the following is not true?': [
-                'Caribou live on all continents',
-                'Both reindeer and Caribou are the same species',
-                'Caribou are bigger than reindeer',
-                'Reindeer live in Scandinavia and Russia',
+            'Archaeologists study material evidence left by people from': [
+                'the past',
+                'the future',
+                'the present',
+                'today',
             ],
         },
         {
-            'In what year did Rudolph make his television debut?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
+            'What was the name of a large Indian town used by Indian leaders several hundred years before the English settlers came?': [
+                'Werowcomoco',
+                'Jamestown',
+                'Yorktown',
+                'Richmond',
             ],
         },
         {
-            'Who was the voice of Rudolph in the 1964 classic?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
+            'In which region is the Pamunkey tribe located?': [
+                'Coastal Plain Tidewater',
+                'Valley and Ridge',
+                'Piedmont',
+                'Appalachian Plateau',
             ],
         },
         {
-            'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
+            'These are the things that tell the history about the people who live in Virginia such as arrowheads, pottery, and tools': [
+                'artifacts',
+                'climate',
+                'archaeologists',
+                'settlement',
             ],
         },
         {
-            'Santa\'s reindeer named Donner was originally named what?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
+            'Virginia\'s Indians are referred to as ': [
+                'Eastern Woodland Indians',
+                'Appalachian Indians',
+                'Desert Indians',
+                'Werowocomoco Indians',
             ],
         },
         {
-            'Who invented the story of Rudolph?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J K  Rowling',
+            'Where was the first permanent English settlement in North America?': [
+                'Jamestown',
+                'Werowocomoco',
+                'Richmond',
+                'Yorktown',
             ],
         },
         {
-            'In what location will you not find reindeer?': [
-                'North Pole',
-                'Lapland',
-                'Korvatunturi mountain',
-                'Finland',
+            'Which of the following is not true?': [
+                'Native people ate the same food during every season',
+                'Native people used natural resources to build their homes',
+                'Native people grew crops such as beans, corn, and squash to eat in the summer',
+                'Native people used animal skins for clothing',
+				'Native people hunted birds and ate stored food during the winter',
+				'Native people hunted, fished, and picked berries for food during the spring',
+				'Native people harvested crops and hunted for food to preserve for winter during the fall',
             ],
         },
         {
-            'What Makes Santa\'s Reindeer Fly?': [
-                'Magical Reindeer Dust',
-                'Fusion',
-                'Amanita muscaria',
-                'Elves',
+            'These are people who study artifacts left from people of the past': [
+                'archaeologists',
+                'explorers',
+                'American Indians',
+                'climates',
             ],
         },
         {
-            'Including Rudolph, how many reindeer hooves are there?': [
-                '36',
-                '24',
-                '16',
-                '8',
+            'Virginias Indians changed their food, clothing, and shelter with the?': [
+                'seasons',
+                'tide',
+                'time of day',
+                'holidays',
             ],
         },
         {
-            'Santa only has one female reindeer, Which one is it?': [
-                'Vixen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
-            ],
-        },
-        {
-            'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
-            ],
-        },
-        {
-            'What was Rudolph\'s father\'s name?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
-            ],
-        },
-        {
-            'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
-            ],
-        },
-        {
-            'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-                'Black mud',
-                'Bag',
-                'Pillow case',
-                'Sock',
-            ],
-        },
-        {
-            'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-                'Dentist',
-                'Reindeer',
-                'Toy maker',
-                'Candlestick maker',
-            ],
-        },
-        {
-            'In the 1964 movie,what was the Bumble\'s one weakness?': [
-                'Could not swim',
-                'Always hungry',
-                'Candy canes',
-                'Cross eyed',
-            ],
-        },
-        {
-            'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-                'Peppermint',
-                'Gold',
-                'India',
-                'Polar Bears',
-            ],
-        },
-        {
-            'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-                'Square wheels',
-                'No Engine',
-                'Paint does not match',
-                'It does not toot',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the Jack in the Box?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
-            ],
-        },
-        {
-            'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-                'Storm',
-                'No snow',
-                'No toys',
-                'The Reindeer were sick',
-            ],
-        },
-        {
-            'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-                'Oink',
-                'Growl',
-                'Bark',
-                'Meow',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the prospector?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
-            ],
-        },
-        {
-            'How far do reindeer travel when they migrate?': [
-                '3000 miles',
-                '700 miles',
-                '500 miles',
-                '0 miles',
-            ],
-        },
-        {
-            'How fast can a reindeer run?': [
-                '48 miles per hour',
-                '17 miles per hour',
-                '19 miles per hour',
-                '14 miles per hour',
-                '52 miles per hour',
-                '41 miles per hour',
+            'What were the three major Indian languages spoken in Virginia?': [
+                'Algonquian, Siouan, and Iroquoian',
+                'Algonquian, Siouan, and Cherokee',
+                'English, Siouan, and Iroquoian',
+                'Algonquian, Monacan, and Cherokee',
             ],
         },
     ],
     QUESTIONS_DE_DE: [
         {
-            'Rentiere haben ein sehr dickes Fell, Wie viele Haare pro Quadratzentimeter haben sie?': [
+            'Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?': [
                 '13,000',
                 '1,200',
                 '5,000',
@@ -515,7 +271,7 @@ module.exports = {
             ],
         },
         {
-            'Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in? ': [
+            'Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in. ': [
                 'Japan',
                 'USA',
                 'Finnland',
@@ -526,7 +282,7 @@ module.exports = {
             ],
         },
         {
-            'Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen, Wie heißt sie?': [
+            'Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen. Wie heißt sie?': [
                 'Wunorse Openslae',
                 'Alabaster Snowball',
                 'Bushy Evergreen',
@@ -534,7 +290,7 @@ module.exports = {
             ],
         },
         {
-            'Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle ': [
+            'Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle. ': [
                 'Weiblich',
                 'Männlich',
                 'Weiblich und männlich',
@@ -594,14 +350,14 @@ module.exports = {
                 'Robert May',
                 'Johnny Marks',
                 'Santa',
-                'J K  Rowling',
+                'J.K. Rowling',
             ],
         },
         {
             'Wo findest du keine Rentiere?': [
                 'Nordpol',
                 'Lappland',
-                'Korvatunturi Berge',
+                'Korvatunturi-Berge',
                 'Finnland',
             ],
         },
@@ -622,7 +378,7 @@ module.exports = {
             ],
         },
         {
-            'Der Weihnachtsmann hat nur ein weibliches Rentier, Wie heißt es?': [
+            'Der Weihnachtsmann hat nur ein weibliches Rentier. Wie heißt es?': [
                 'Blitzen',
                 'Clarice',
                 'Cupid',
@@ -670,7 +426,7 @@ module.exports = {
             ],
         },
         {
-            'Was möchte die Misfit Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?': [
+            'Was möchte die Misfit-Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?': [
                 'Zahnarzt',
                 'Rentier',
                 'Spielzeugmacher',
